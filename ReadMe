@@ -1,0 +1,2 @@
+# PlayerManagementSystem
+This is a Player Management System , in which we can create a Player with his/her records , update the Records and We can track their intensity and effectiveness on the bases of their Data . and System Data stores in the Dynamic Memory instead of database.
